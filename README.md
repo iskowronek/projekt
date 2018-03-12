@@ -10,3 +10,4 @@
   * Możliwość zdobywania punktów które będzie można wymienić na wspomagacze (np spowolnienie czasu)
   * Różne tryby rozgrywki
   * Tabelę wyników
+  * Możliwy tryb 2 i (?) więcej osobowy (z 1 komputera lub (jeśli starczy mi czasu) online)
